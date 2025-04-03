@@ -57,16 +57,43 @@ To get a local copy up and running follow these steps:
 ### 4. **Usage**  
 Provide a brief guide on how to use the app after installation, along with screenshots or a demo.  
 
-  ```markdown
+## Usage  
 
-        ## Usage  
-        Visit `http://localhost:3000` in your browser. You can create an account, log in, and start exploring articles. Here's how to create a new post:  
+   Visit `http://localhost:3000` in your browser. You can create an account, log in, and start exploring articles. Here's how to create a new post:  
         
-        1. Click on "Create Article".  
-        2. Fill in the article title, content, and upload images.  
-        3. Publish your article and engage with other users in the comments section.  
+   1. Click on "Create Article".  
+   2. Fill in the article title, content, and upload images.  
+   3. Publish your article and engage with other users in the comments section.  
         
-        ![Demo Screenshot](path/to/![image](https://github.com/user-attachments/assets/92bd7634-8dc8-46a7-8608-2ead62908322)
 )
+
+## Tech Stack  
+- **Next.js**: For building server-side rendered React applications.  
+- **TypeScript**: For type safety and reliability.  
+- **PostgreSQL**: Database management for storing articles and user data.  
+- **Prisma**: ORM for seamless data interactions.  
+- **Cloudinary**: For image and media uploads.  
+- **Tailwind CSS**: For styling with utility-first CSS.  
+- **shadcn-ui**: For accessible, reusable UI components.  
+- **ZOD**: For form validation.
+
+## Contributing  
+Contributions are welcome! Please follow these steps:  
+
+1. Fork the repository.  
+2. Create your feature branch:  
+   ```bash  
+   git checkout -b feature/YourFeature
+
+## Demo
+
+![Screenshot 2025-04-03 235003](https://github.com/user-attachments/assets/1803186c-081c-4f2a-89a8-695f190f837d)
+
+
+
+## Contact  
+Your Name - [your.email@example.com](mailto:majid.hafiz92@gmail.com)  
+
+Project Link: [https://github.com/Majid-Hassan/next-clerk-blog-app/](https://github.com/Majid-Hassan/next-clerk-blog-app/)
 
 
