@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a341aa78-1033-4774-be2f-a5b62331c4e9)# Next Clerk Blog App: Share, Learn, and Connect  
+![image](https://github.com/user-attachments/assets/01df54da-72cd-4163-a440-7d80097b83ef)# Next Clerk Blog App (Wisdom App): Share, Learn, and Connect  
 
 This application is designed for users to publish and explore articles on various aspects of life. Share your insights, leave comments, and engage with a community eager to learn and grow!  
 
@@ -87,9 +87,11 @@ Contributions are welcome! Please follow these steps:
 
 ## Demo
 
-![Screenshot 2025-04-03 235834](https://github.com/user-attachments/assets/a10951f1-a9d1-48e3-95ba-8b021fbd6cb5)
-![Screenshot 2025-04-03 235003](https://github.com/user-attachments/assets/1803186c-081c-4f2a-89a8-695f190f837d)
-
+![image](https://github.com/user-attachments/assets/01df54da-72cd-4163-a440-7d80097b83ef)
+![image](https://github.com/user-attachments/assets/5ce6a545-03d2-48c5-9344-c09bd73d6d67)
+![image](https://github.com/user-attachments/assets/9ebd7cd9-c642-4c54-aafc-354622713f48)
+![image](https://github.com/user-attachments/assets/1f456568-8195-4a0a-8b41-afffafb389c4)
+![image](https://github.com/user-attachments/assets/547d8c1a-b164-41de-83c4-6171dfa71350)
 
 
 ## Contact  
