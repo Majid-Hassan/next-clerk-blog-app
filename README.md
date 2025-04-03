@@ -94,9 +94,6 @@ Contributions are welcome! Please follow these steps:
 ![image](https://github.com/user-attachments/assets/547d8c1a-b164-41de-83c4-6171dfa71350)
 
 
-## Contact  
-Your Name - [your.email@example.com](mailto:majid.hafiz92@gmail.com)  
-
 Project Link: [https://github.com/Majid-Hassan/next-clerk-blog-app/](https://github.com/Majid-Hassan/next-clerk-blog-app/)
 
 
